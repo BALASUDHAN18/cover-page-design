@@ -69,7 +69,7 @@ HTML CODE.
 </html>>
 ```
 cover-page-design
-![html](https://user-images.githubusercontent.com/118807740/215308223-f03979aa-4e7b-4020-99e0-eec42ed736ec.png)
+![WhatsApp Image 2023-01-29 at 12 54 43](https://user-images.githubusercontent.com/118807740/215312388-5447a55d-798a-419a-a4ed-76a3b64e2ea4.jpg)
 
 Result
 
