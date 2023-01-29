@@ -70,7 +70,7 @@ HTML CODE.
 ```
 
 cover-page-design
-![image](https://user-images.githubusercontent.com/118807740/215307893-7b50f155-b10c-4745-afc9-be6c0d94b42d.png)
+![bala](https://user-images.githubusercontent.com/118807740/215308123-2ef5f134-c4bf-4f4e-b835-322922872204.png)
 
 coverpage
 Result
