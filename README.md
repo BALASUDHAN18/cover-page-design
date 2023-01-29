@@ -68,11 +68,9 @@ HTML CODE.
 </body>
 </html>>
 ```
-
 cover-page-design
-![bala](https://user-images.githubusercontent.com/118807740/215308123-2ef5f134-c4bf-4f4e-b835-322922872204.png)
+![html](https://user-images.githubusercontent.com/118807740/215308223-f03979aa-4e7b-4020-99e0-eec42ed736ec.png)
 
-coverpage
 Result
 
 The program for designing book cover page using HTML and CSS is executed successfully
